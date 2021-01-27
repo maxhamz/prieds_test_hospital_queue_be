@@ -99,9 +99,9 @@ Project Inspiration: https://bezkoder.com/django-mongodb-crud-rest-framework/
       **Content:**<br>
       None
 
-<br/>
+<hr/>
 
-3. Edit New Visitor
+4. Drop New Visitor
 
 -  URL: `http://localhost:8000/visitors/<int:pk>`
 -  Methods: `DELETE`
