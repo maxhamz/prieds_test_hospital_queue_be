@@ -4,9 +4,17 @@ Django backend, MongoDB server with QR generation
 
 Project Inspiration: https://bezkoder.com/django-mongodb-crud-rest-framework/
 
+## Running MongoDB
+
+`sudo service mongodb start`
+
 ## Creating Superuser
 
 `python3 manage.py createsuperuser`
+
+## Running Server
+
+`python3 manage.py runserver`
 
 ## Available Endpoints
 
